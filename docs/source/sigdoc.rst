@@ -19,3 +19,4 @@ Contents
 
    MSxF
    MSxH
+   MSxE
