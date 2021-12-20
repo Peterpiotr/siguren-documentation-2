@@ -17,6 +17,6 @@ Contents
 
 .. toctree::
 
-   MSxF
+   MSxF/MSxF
    MSxH/MSxH
    MSxE
