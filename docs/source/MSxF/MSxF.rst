@@ -7,6 +7,10 @@ Install MSxF on your hoist
 
 go ahead 
 
+.. DANGER::
+   Beware killer rabbits!
+
+
 Conduct commissioning
 -----------
 
